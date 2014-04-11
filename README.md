@@ -1,3 +1,3 @@
 gs-maven
 ========
-Geting started with GitHub
+Geting started with GitHub.
